@@ -14,4 +14,5 @@ I'm a software development student at BYU Idaho with a passion for building full
 - [Task Manager API](https://github.com/your-username/task-manager-api) – A full CRUD REST API with MongoDB and OAuth
 
 ## 📫 Contact Me
-Feel free to connect with me via [LinkedIn]([https://www.linkedin.com/in/frankmata17/))
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/frankmata17/)
+
