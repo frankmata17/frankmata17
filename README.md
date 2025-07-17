@@ -10,8 +10,8 @@ I'm a software development student at BYU Idaho with a passion for building full
 - **Tools**: Git, GitHub, VS Code, Postman, Swagger
 
 ## 📂 Projects
-- [Handcrafted Haven](https://github.com/your-username/handcrafted-haven) – A marketplace for artisans using Next.js and Node.js
-- [Task Manager API](https://github.com/your-username/task-manager-api) – A full CRUD REST API with MongoDB and OAuth
+- [Handcrafted Haven]() – A marketplace for artisans using Next.js and Node.js
+- [Task Manager API]() – A full CRUD REST API with MongoDB and OAuth
 
 ## 📫 Contact Me
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/frankmata17/)
